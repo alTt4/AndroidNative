@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/33770/Desktop/Cours/Android SDK Studio/AndroidSdkStudio/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.162" />
+        <entry key="..\:/Users/33770/Desktop/Cours/Android SDK Studio/AndroidSdkStudio/app/src/main/res/drawable/ic_launcher_background.xml" value="0.162" />
+        <entry key="..\:/Users/33770/Desktop/Cours/Android SDK Studio/AndroidSdkStudio/app/src/main/res/layout/activity_animals_list.xml" value="0.2598958333333333" />
+        <entry key="..\:/Users/33770/Desktop/Cours/Android SDK Studio/AndroidSdkStudio/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/33770/Desktop/Cours/Android SDK Studio/AndroidSdkStudio/app/src/main/res/layout/animals_list2.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/33770/Desktop/Cours/Android SDK Studio/AndroidSdkStudio/app/src/main/res/layout/home.xml" value="0.25" />
+        <entry key="..\:/Users/33770/Desktop/Cours/Android SDK Studio/AndroidSdkStudio/app/src/main/res/layout/item_animal.xml" value="0.18" />
+        <entry key="..\:/Users/33770/Desktop/Cours/Android SDK Studio/AndroidSdkStudio/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.162" />
+        <entry key="..\:/Users/fbansept/AndroidStudioProjects/dfsr_presentation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.193" />
+        <entry key="..\:/Users/fbansept/AndroidStudioProjects/dfsr_presentation/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/fbansept/AndroidStudioProjects/dfsr_presentation/app/src/main/res/layout/item_animal.xml" value="0.5" />
+        <entry key="..\:/Users/fbansept/AndroidStudioProjects/dfsr_presentation/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.135" />
+        <entry key="..\:/Users/stagiaire/Documents/java-android/dfsr_presentation/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/stagiaire/Documents/java-android/dfsr_presentation/app/src/main/res/layout/item_animal.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

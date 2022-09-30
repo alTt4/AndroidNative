@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"><font fgcolor='#FF3F59FF'>Application Android</font></string>
+    <string name="clique_ici">Clique ici</string>
+    <string name="ouvrir_gallerie">Ouvrir gallerie</string>
+    <string name="open_gallery">Ouvrir gallerie</string>
+    <string name="textview">TextView</string>
+</resources>
+
